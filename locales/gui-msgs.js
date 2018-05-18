@@ -20,6 +20,7 @@ const guiMsgs = {
       "gui.customProcedures.ok": "OK",
       "gui.gui.addExtension": "Add Extension",
       "gui.gui.codeTab": "Программа",
+      "gui.gui.backdropsTab": "Фоны",
       "gui.gui.costumesTab": "Костюмы",
       "gui.gui.soundsTab": "Звуки",
       "gui.importInfo.title": "View a Scratch 2.0 Project",
