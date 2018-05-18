@@ -44,23 +44,23 @@ const penMsgs = {
   },
   "de": {
     "messages": {
-      "pen.setColor": "setze Stiftfarbe auf [COLOR]",
-      "pen.setColorParam": "setze [COLOR_PARAM] von Stift auf [VALUE]",
+      "pen.setColor": "set pen color to [COLOR]",
+      "pen.setColorParam": "set pen [COLOR_PARAM] to [VALUE]",
       "pen.colorMenu.brightness": "Helligkeit",
-      "pen.setSize": "Setze Stiftdicke auf [SIZE]",
-      "pen.changeHue": "Ändere Stiftsättigung um [HUE]",
+      "pen.setSize": "set pen size to [SIZE]",
+      "pen.changeHue": "change pen hue by [HUE]",
       "pen.stamp": "hinterlasse Abdruck",
       "pen.clear": "wische Malspuren weg",
-      "pen.setHue": "Setze Stiftsättigung auf [HUE]",
-      "pen.setShade": "setze Farbstärke auf [SHADE]",
+      "pen.setHue": "set pen hue to [HUE]",
+      "pen.setShade": "set pen shade to [SHADE]",
       "pen.colorMenu.color": "Farbe",
-      "pen.changeSize": "Ändere Stiftdicke um [SIZE]",
-      "pen.colorMenu.transparency": "Transparenz",
-      "pen.changeColorParam": "setze [COLOR_PARAM] von Stift auf [VALUE]",
+      "pen.changeSize": "change pen size by [SIZE]",
+      "pen.colorMenu.transparency": "transparency",
+      "pen.changeColorParam": "change pen [COLOR_PARAM] by [VALUE]",
       "pen.penDown": "schalte Stift ein",
       "pen.penUp": "schalte Stift aus",
-      "pen.colorMenu.saturation": "Sättigung",
-      "pen.changeShade": "Ändere Farbstärke um [SHADE]"
+      "pen.colorMenu.saturation": "saturation",
+      "pen.changeShade": "change pen shade by [SHADE]"
     }
   },
   "es": {
@@ -86,23 +86,23 @@ const penMsgs = {
   },
   "he": {
     "messages": {
-      "pen.setColor": "קבע צבע עט ל[COLOR]",
-      "pen.setColorParam": "קבע [COLOR_PARAM] עט ל[VALUE]",
-      "pen.colorMenu.brightness": "בהירות",
-      "pen.setSize": "קבע גודל עט ל[SIZE]",
-      "pen.changeHue": "שנה גוון עט ב[HUE]",
-      "pen.stamp": "החתם",
-      "pen.clear": "נקה",
-      "pen.setHue": "קבע גוון עט ל[HUE]",
-      "pen.setShade": "קבע הצללת עט ל[SHADE]",
-      "pen.colorMenu.color": "צבע",
-      "pen.changeSize": "שנה גודל עט ב[SIZE]",
-      "pen.colorMenu.transparency": "שקיפות",
-      "pen.changeColorParam": "שנה [COLOR_PARAM] עט ל[VALUE]",
-      "pen.penDown": "עט מטה",
-      "pen.penUp": "עט מעלה",
-      "pen.colorMenu.saturation": "סטורציה",
-      "pen.changeShade": "שנה הצללת עט ב[SHADE]"
+      "pen.setColor": "set pen color to [COLOR]",
+      "pen.setColorParam": "set pen [COLOR_PARAM] to [VALUE]",
+      "pen.colorMenu.brightness": "brightness",
+      "pen.setSize": "set pen size to [SIZE]",
+      "pen.changeHue": "change pen hue by [HUE]",
+      "pen.stamp": "stamp",
+      "pen.clear": "clear",
+      "pen.setHue": "set pen hue to [HUE]",
+      "pen.setShade": "set pen shade to [SHADE]",
+      "pen.colorMenu.color": "color",
+      "pen.changeSize": "change pen size by [SIZE]",
+      "pen.colorMenu.transparency": "transparency",
+      "pen.changeColorParam": "change pen [COLOR_PARAM] by [VALUE]",
+      "pen.penDown": "pen down",
+      "pen.penUp": "pen up",
+      "pen.colorMenu.saturation": "saturation",
+      "pen.changeShade": "change pen shade by [SHADE]"
     }
   }
 }
