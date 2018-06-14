@@ -24,6 +24,7 @@ const locales = {
     'nb': {name: 'Norsk Bokmål'},
     'pt': {name: 'Português'},
     'pt-br': {name: 'Português Brasileiro'},
+    'ru': {name: 'Русский'},
     'sr': {name: 'Српски'},
     'sl': {name: 'Slovenščina'},
     'tr': {name: 'Türkçe'},
