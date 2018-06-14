@@ -1,0 +1,110 @@
+{
+    "paint.paintEditor.redo": {
+        "message": "Tee uudelleen",
+        "description": "Alt to image for the button to redo an action"
+    },
+    "paint.paintEditor.fill": {
+        "message": "Täytä",
+        "description": "Label for the color picker for the fill color"
+    },
+    "gui.comingSoon.message3": {
+        "message": "Toteutamme sitä {emoji}",
+        "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+    },
+    "paint.modeTools.eraserSize": {
+        "message": "Kumin koko",
+        "description": "Label for the eraser size input"
+    },
+    "paint.paintEditor.more": {
+        "message": "Enemmän",
+        "description": "Label for dropdown to access more action buttons"
+    },
+    "gui.comingSoon.message1": {
+        "message": "Älä huoli, toteutamme sitä {emoji}",
+        "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+    },
+    "paint.modeTools.pointed": {
+        "message": "Teräväkärkinen",
+        "description": "Label for the button that converts selected points to sharp points"
+    },
+    "paint.paintEditor.backward": {
+        "message": "Taaksepäin",
+        "description": "Label for the `Send backward on canvas` button"
+    },
+    "paint.paintEditor.bitmap": {
+        "message": "Muunna bittikartaksi",
+        "description": "Label for button that converts the paint editor to bitmap mode"
+    },
+    "paint.paintEditor.group": {
+        "message": "Ryhmitä",
+        "description": "Label for the button to group shapes"
+    },
+    "paint.modeTools.paste": {
+        "message": "Liitä",
+        "description": "Label for the paste button"
+    },
+    "paint.paintEditor.saturation": {
+        "message": "Värikylläisyys",
+        "description": "Label for the saturation component in the color picker"
+    },
+    "paint.modeTools.curved": {
+        "message": "Kaartuva",
+        "description": "Label for the button that converts selected points to curves"
+    },
+    "paint.modeTools.brushSize": {
+        "message": "Siveltimen koko",
+        "description": "Label for the brush size input"
+    },
+    "paint.paintEditor.undo": {
+        "message": "Kumoa",
+        "description": "Alt to image for the button to undo an action"
+    },
+    "paint.paintEditor.forward": {
+        "message": "Eteenpäin",
+        "description": "Label for the `Send forward on canvas` button"
+    },
+    "paint.modeTools.flipVertical": {
+        "message": "Käännä pystysuoraan",
+        "description": "Label for the button to flip the image vertically"
+    },
+    "paint.paintEditor.brightness": {
+        "message": "Kirkkaus",
+        "description": "Label for the brightness component in the color picker"
+    },
+    "paint.paintEditor.costume": {
+        "message": "Asuste",
+        "description": "Label for the name of a sound"
+    },
+    "paint.paintEditor.back": {
+        "message": "Takaisin",
+        "description": "Label for the `Send to back of canvas` button"
+    },
+    "paint.paintEditor.ungroup": {
+        "message": "Pura ryhmitys",
+        "description": "Label for the button to ungroup shapes"
+    },
+    "paint.modeTools.flipHorizontal": {
+        "message": "Käännä vaakasuoraan",
+        "description": "Label for the button to flip the image horizontally"
+    },
+    "paint.paintEditor.hue": {
+        "message": "Väri",
+        "description": "Label for the hue component in the color picker"
+    },
+    "paint.modeTools.copy": {
+        "message": "Kopioi",
+        "description": "Label for the copy button"
+    },
+    "paint.paintEditor.front": {
+        "message": "Eteen",
+        "description": "Label for the `Send to front of canvas` button"
+    },
+    "paint.paintEditor.stroke": {
+        "message": "Ääriviiva",
+        "description": "Label for the color picker for the outline color"
+    },
+    "gui.comingSoon.message2": {
+        "message": "Tulossa pian...",
+        "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+    }
+}

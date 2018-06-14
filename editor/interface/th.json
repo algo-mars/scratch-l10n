@@ -1,0 +1,714 @@
+{
+    "gui.soundEditor.echo": {
+        "message": "เสียงสะท้อน",
+        "description": "Title of the button to apply the echo effect"
+    },
+    "gui.howtos.run-away.step_addWhenClicked": {
+        "message": "เพิ่มบล็อก \"เมื่อคลิกสไปรต์นี้\"",
+        "description": "Step name for 'Add a “when this sprite clicked” block' step"
+    },
+    "gui.previewInfo.notnow": {
+        "message": "ไม่ใช่ตอนนี้",
+        "description": "Label for button to back out of trying Scratch 3.0 preview"
+    },
+    "gui.costumeLibrary.chooseACostume": {
+        "message": "เลือกคอสตูม",
+        "description": "Heading for the costume library"
+    },
+    "gui.library.filterPlaceholder": {
+        "message": "ค้นหา",
+        "description": "Placeholder text for library search field"
+    },
+    "gui.unsupportedBrowser.back": {
+        "message": "ย้อนกลับ",
+        "description": "Button to go back in unsupported browser modal"
+    },
+    "gui.stageSelector.addBackdropFromSurprise": {
+        "message": "เซอร์ไพรส์",
+        "description": "Button to add a random stage in the target pane"
+    },
+    "gui.comingSoon.message3": {
+        "message": "เรากำลังทำอยู่ {emoji}",
+        "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+    },
+    "gui.unsupportedBrowser.previewfaqlink": {
+        "message": "Preview FAQ",
+        "description": "link to Scratch 3.0 preview FAQ page"
+    },
+    "gui.monitor.contextMenu.slider": {
+        "message": "ตัวเลื่อน",
+        "description": "Menu item to switch to the slider monitor"
+    },
+    "gui.cards.remove": {
+        "message": "ลบออก",
+        "description": "Title for button to close how-to card"
+    },
+    "gui.unsupportedBrowser.description": {
+        "message": "เราเสียใจมาก แต่ Scratch 3.0 ไม่สนับสนุน Internet Explorer, Opera หรือ Silk เราขอแนะนำให้ลองใช้เบราว์เซอร์รุ่นใหม่เช่น Google Chrome, Mozilla Firefox หรือ Microsoft Edge",
+        "description": "Unsupported browser description"
+    },
+    "gui.costumeTab.addSurpriseCostume": {
+        "message": "เซอร์ไพรส์",
+        "description": "Button to add a surprise costume in the editor tab"
+    },
+    "gui.soundEditor.save": {
+        "message": "บันทึก",
+        "description": "Title of the button to save trimmed sound"
+    },
+    "gui.howtos.say-hello.name": {
+        "message": "ทักทาย",
+        "description": "Name for the 'Say hello' how-to"
+    },
+    "gui.stageHeader.stageSizeUnFull": {
+        "message": "ออกจากโหมดเต็มจอ",
+        "description": "Button to get out of full screen mode"
+    },
+    "gui.menuBar.file": {
+        "message": "แฟ้ม",
+        "description": "Text for file dropdown menu"
+    },
+    "gui.stageHeader.stageSizeLarge": {
+        "message": "เปลี่ยนเป็นเวทีใหญ่",
+        "description": "Button to change stage size to large"
+    },
+    "gui.howtos.switch-costume.name": {
+        "message": "เปลี่ยนคอสตูม",
+        "description": "Name for the 'Switch costume' how-to"
+    },
+    "gui.howtos.say-hello.step_addSprite": {
+        "message": "เพิ่มสไปรต์ใหม่",
+        "description": "Step name for 'Add a new sprite' step"
+    },
+    "gui.costumeTab.addFileBackdrop": {
+        "message": "อัปโหลดฉากหลัง",
+        "description": "Button to add a backdrop by uploading a file in the editor tab"
+    },
+    "gui.soundTab.fileUploadSound": {
+        "message": "อัปโหลดเสียง",
+        "description": "Button to upload sound from file in the editor tab"
+    },
+    "gui.soundEditor.stop": {
+        "message": "หยุด",
+        "description": "Title of the button to stop the sound"
+    },
+    "gui.loader.message2": {
+        "message": "กำลังโหลดสไปรต์",
+        "description": "One of the loading messages"
+    },
+    "gui.stageHeader.fullscreenControl": {
+        "message": "สลับโหมดเต็มจอ",
+        "description": "Button to enter/exit full screen mode"
+    },
+    "gui.soundEditor.redo": {
+        "message": "ทำซ้ำ",
+        "description": "Title of the button to redo"
+    },
+    "gui.importInfo.title": {
+        "message": "ดูโครงงาน Scratch 2.0",
+        "description": "Scratch 2.0 import modal label - for accessibility"
+    },
+    "gui.extensionLibrary.chooseAnExtension": {
+        "message": "เลือกส่วนขยาย",
+        "description": "Heading for the extension library"
+    },
+    "gui.webglModal.description": {
+        "message": "น่าเสียดาย ดูเหมือนเบราเซอร์หรือคอมพิวเตอร์ของคุณ {webGlLink}  เทคโนโลยีนี้จำเป็นสำหรับการทำงานของ Scratch 3.0",
+        "description": "WebGL missing message"
+    },
+    "gui.previewModal.viewproject": {
+        "message": "ดูโครงงาน 2.0",
+        "description": "Label for button to import a 2.0 project"
+    },
+    "gui.previewInfo.previewfaqlink": {
+        "message": "Preview FAQ",
+        "description": "link to Scratch 3.0 preview FAQ page"
+    },
+    "gui.soundEditor.softer": {
+        "message": "เบา",
+        "description": "Title of the button to apply thr.softer effect"
+    },
+    "gui.soundEditor.robot": {
+        "message": "หุ่นยนต์",
+        "description": "Title of the button to apply the robot effect"
+    },
+    "gui.menuBar.undo": {
+        "message": "ย้อนกลับ",
+        "description": "Menu bar item for undoing"
+    },
+    "gui.stageSelector.stage": {
+        "message": "เวที",
+        "description": "Label for the stage in the stage selector"
+    },
+    "gui.webglModal.back": {
+        "message": "ย้อนกลับ",
+        "description": "Label for button go back when browser is unsupported"
+    },
+    "gui.comingSoon.message1": {
+        "message": "ไม่ต้องกังวล เรากำลังทำอยู่ {emoji}",
+        "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+    },
+    "gui.cards.all-how-tos": {
+        "message": "How-Tos ทั้งหมด",
+        "description": "Title for button to return to how-to library"
+    },
+    "gui.soundLibrary.chooseASound": {
+        "message": "เลือกเสียง",
+        "description": "Heading for the sound library"
+    },
+    "gui.importInfo.invalidFormatError": {
+        "message": "โอ๊ะโอ ดูเหมือนลิงก์โครงงานหรือ ID ไม่ถูกต้อง",
+        "description": "Invalid project link or id message"
+    },
+    "gui.customProcedures.addAnInputNumberText": {
+        "message": "ใส่ข้อมูล",
+        "description": "Label for button to add a number/text input"
+    },
+    "gui.menuBar.saveAsCopy": {
+        "message": "บันทึกเป็น",
+        "description": "Menu bar item for saving as a copy"
+    },
+    "gui.importModal.viewproject": {
+        "message": "ดู",
+        "description": "Label for button to load a scratch 2.0 project"
+    },
+    "gui.menuBar.new": {
+        "message": "ใหม่",
+        "description": "Menu bar item for creating a new project"
+    },
+    "gui.customProcedures.addALabel": {
+        "message": "เพิ่มป้ายกำกับ",
+        "description": "Label for button to add a label"
+    },
+    "gui.soundEditor.trim": {
+        "message": "ตัดแต่ง",
+        "description": "Title of the button to start trimminging the sound"
+    },
+    "gui.cards.see-more": {
+        "message": "ดูเพิ่มเติม",
+        "description": "Title for button to see more in how-to library"
+    },
+    "gui.customProcedures.addAnInputBoolean": {
+        "message": "ใส่ข้อมูล",
+        "description": "Label for button to add a boolean input"
+    },
+    "gui.stageHeader.stageSizeSmall": {
+        "message": "เปลี่ยนเป็นเวทีขนาดเล็ก",
+        "description": "Button to change stage size to small"
+    },
+    "gui.menuBar.saveNow": {
+        "message": "บันทึกทันที",
+        "description": "Menu bar item for saving now"
+    },
+    "gui.SpriteInfo.sprite": {
+        "message": "สไปรต์",
+        "description": "Sprite info label"
+    },
+    "gui.menuBar.downloadToComputer": {
+        "message": "ดาวน์โหลดลงเครื่องคอมพิวเตอร์",
+        "description": "Menu bar item for downloading a project"
+    },
+    "gui.costumeTab.addCostumeFromLibrary": {
+        "message": "เลือกคอสตูม",
+        "description": "Button to add a costume in the editor tab"
+    },
+    "gui.soundTab.addSoundFromLibrary": {
+        "message": "เลือกเสียง",
+        "description": "Button to add a sound in the editor tab"
+    },
+    "gui.cameraModal.enableCameraCaption": {
+        "message": "เปิดใช้งานกล้อง",
+        "description": "A caption for a disabled button prompting the user to enable camera access"
+    },
+    "gui.loader.message5": {
+        "message": "จับแมวใส่กระด้ง …",
+        "description": "One of the loading messages"
+    },
+    "gui.loader.message7": {
+        "message": "กำลังเป่า Gobo",
+        "description": "One of the loading messages"
+    },
+    "gui.howtos.glide-around.name": {
+        "message": "เหินไปรอบๆ",
+        "description": "Name for the 'Glide around' how-to"
+    },
+    "gui.menuBar.uploadFromComputer": {
+        "message": "อัพโหลดจากคอมพิวเตอร์",
+        "description": "Menu bar item for uploading a project from your computer"
+    },
+    "gui.customProcedures.ok": {
+        "message": "ตกลง",
+        "description": "Label for button to save new custom procedure"
+    },
+    "gui.spriteSelector.addBackdropFromLibrary": {
+        "message": "เลือกฉากหลัง",
+        "description": "Button to add a stage in the target pane from library"
+    },
+    "gui.soundEditor.slower": {
+        "message": "ช้าลง",
+        "description": "Title of the button to apply the slower effect"
+    },
+    "gui.howtos.spin-around.name": {
+        "message": "หมุนไปรอบๆ",
+        "description": "Name for the 'Spin around' how-to"
+    },
+    "gui.turboMode.active": {
+        "message": "โหมดเทอร์โบ",
+        "description": "Label indicating turbo mode is active"
+    },
+    "gui.howtos.run-away.step3": {
+        "message": "คลิกประเภท \"เหตุการณ์\"",
+        "description": "Step 3 title"
+    },
+    "gui.loader.message4": {
+        "message": "กำลังโหลดส่วนขยาย ...",
+        "description": "One of the loading messages"
+    },
+    "gui.recordingStep.alertMsg": {
+        "message": "ไม่สามารถเริ่มบันทึกได้",
+        "description": "Alert for recording error"
+    },
+    "gui.extensionLibrary.extensionUrl": {
+        "message": "ใส่ URL ของส่วนขยาย",
+        "description": "Prompt for unoffical extension url"
+    },
+    "gui.customProcedures.cancel": {
+        "message": "ยกเลิก",
+        "description": "Label for button to cancel custom procedure edits"
+    },
+    "gui.modal.back": {
+        "message": "ย้อนกลับ",
+        "description": "Back button in modal"
+    },
+    "gui.howtos.spin.step_dragForever": {
+        "message": "ลากบล็อก \"ตลอดกาล\" ออกมา ",
+        "description": "Step name for 'Drag out a “forever” block' step"
+    },
+    "gui.recordModal.title": {
+        "message": "บันทึกเสียง",
+        "description": "Recording modal title"
+    },
+    "gui.gui.backdropsTab": {
+        "message": "ฉากหลัง",
+        "description": "Button to get to the backdrops panel"
+    },
+    "gui.prompt.ok": {
+        "message": "ตกลง",
+        "description": "Button in prompt for confirming the dialog"
+    },
+    "gui.cameraModal.permissionRequest": {
+        "message": "เราต้องการอนุญาตจากคุณเพื่อใช้กล้อง",
+        "description": "Notification to the user that the app needs camera access"
+    },
+    "gui.customProcedures.numberTextType": {
+        "message": "ตัวเลขหรือข้อความ",
+        "description": "Description of the number/text input type"
+    },
+    "gui.unsupportedBrowser.previewfaq": {
+        "message": "เรียนรู้เพิ่มเติม ไปที่ {previewFaqLink}",
+        "description": "Invitation to try 3.0 preview"
+    },
+    "gui.howtos.run-away.step_clickGoTo": {
+        "message": "คลิกบล็อกเพื่อรัน",
+        "description": "Step name for 'Click the block to run it' step"
+    },
+    "gui.soundEditor.play": {
+        "message": "เล่น",
+        "description": "Title of the button to start playing the sound"
+    },
+    "gui.cameraModal.retakePhoto": {
+        "message": "ถ่ายรูปใหม่",
+        "description": "A button that allows the user to take the picture again, replacing the old one"
+    },
+    "gui.menuBar.share": {
+        "message": "แชร์",
+        "description": "Label for project share button"
+    },
+    "gui.crashMessage.description": {
+        "message": "เราเสียใจมาก แต่ดูเหมือนว่า Scratch มีปัญหา ข้อผิดพลาดนี้ได้รายงานโดยอัตโนมัติไปยังทีม Scratch แล้ว โปรดรีเฟรชหน้าเว็บของคุณเพื่อลองอีกครั้ง",
+        "description": "Unhandled error description"
+    },
+    "gui.webglModal.label": {
+        "message": "เบราเซอร์ของคุณไม่รองรับ WebGL",
+        "description": "WebGL missing title"
+    },
+    "gui.importInfo.goback": {
+        "message": "ย้อนกลับ",
+        "description": "Label for button to back out of importing a project"
+    },
+    "gui.monitor.contextMenu.large": {
+        "message": "เปลี่ยนเป็นจอใหญ่",
+        "description": "Menu item to switch to the large monitor"
+    },
+    "gui.cards.more-things-to-try": {
+        "message": "มีอีกหลายสิ่งที่ต้องลอง!",
+        "description": "Title card with more things to try"
+    },
+    "gui.costumeTab.addCameraCostume": {
+        "message": "กล้อง",
+        "description": "Button to use the camera to create a costume costume in the editor tab"
+    },
+    "gui.howtos.spin.step_clickTurn": {
+        "message": "คลิกบล็อกเพื่อรัน",
+        "description": "Step name for 'Click the block to run it' step"
+    },
+    "gui.spriteLibrary.chooseASprite": {
+        "message": "เลือกสไปรต์",
+        "description": "Heading for the sprite library"
+    },
+    "gui.loader.headline": {
+        "message": "กำลังโหลดโครงงาน",
+        "description": "Main loading message"
+    },
+    "gui.playbackStep.playMsg": {
+        "message": "เล่น",
+        "description": "Stop/Play button in recording playback"
+    },
+    "gui.customProcedures.booleanType": {
+        "message": "บูลีน",
+        "description": "Description of the boolean input type"
+    },
+    "gui.importInfo.previewfaqlink": {
+        "message": "Preview FAQ",
+        "description": "link to Scratch 3.0 preview FAQ page"
+    },
+    "gui.howtos.spin.step_dragTurn": {
+        "message": "ลากบล็อก \"หมุน\" ออกมา",
+        "description": "Step name for 'Drag out a “turn” block' step"
+    },
+    "gui.costumeTab.addBackdropFromLibrary": {
+        "message": "เลือกฉากหลัง",
+        "description": "Button to add a backdrop in the editor tab"
+    },
+    "gui.menuBar.redo": {
+        "message": "ทำซ้ำ",
+        "description": "Menu bar item for redoing"
+    },
+    "gui.spriteSelector.addSpriteFromPaint": {
+        "message": "วาดรูป",
+        "description": "Button to add a sprite in the target pane from paint"
+    },
+    "gui.previewInfo.invitation": {
+        "message": "เรากำลังทำ Scratch รุ่นถัดไป เราตื่นเต้นที่คุณจะลอง!",
+        "description": "Invitation to try 3.0 preview"
+    },
+    "gui.crashMessage.title": {
+        "message": "อุ๊ย! มีบางอย่างผิดพลาด",
+        "description": "Unhandled error title"
+    },
+    "gui.spriteSelectorItem.contextMenuDuplicate": {
+        "message": "ทำซ้ำ",
+        "description": "Menu item to duplicate in the right click menu"
+    },
+    "gui.importInfo.previewfaq": {
+        "message": "เรียนรู้เพิ่มเติม ไปที่ {previewFaqLink}",
+        "description": "Invitation to try 3.0 preview"
+    },
+    "gui.howtos.spin.step_changeColor": {
+        "message": "เพิ่มบล็อก \"เปลี่ยนเอฟเฟกต์ภาพสี\"",
+        "description": "Step name for 'Add a “change color effect” block' step"
+    },
+    "gui.previewInfo.previewfaq": {
+        "message": "เรียนรู้เพิ่มเติม ไปที่ {previewFaqLink}",
+        "description": "Invitation to try 3.0 preview"
+    },
+    "gui.howtos.run-away.step_clickSprite": {
+        "message": "คลิกสไปรต์เพื่อรัน",
+        "description": "Step name for 'Click the sprite to run it' step"
+    },
+    "gui.controls.go": {
+        "message": "ไป",
+        "description": "Green flag button title"
+    },
+    "gui.spriteSelectorItem.contextMenuDelete": {
+        "message": "ลบ",
+        "description": "Menu item to delete in the right click menu"
+    },
+    "gui.soundTab.surpriseSound": {
+        "message": "เซอร์ไพรส์",
+        "description": "Button to get a random sound in the editor tab"
+    },
+    "gui.howtos.say-hello.step_clickStack": {
+        "message": "คลิกบล็อกที่ซ้อนกันเพื่อรัน",
+        "description": "Step name for 'Click the stack to run it' step"
+    },
+    "gui.stageHeader.stageSizeFull": {
+        "message": "เข้าโหมดเต็มจอ",
+        "description": "Button to change stage size to full screen"
+    },
+    "gui.stageSelector.backdrops": {
+        "message": "ฉากหลัง",
+        "description": "Label for the backdrops in the stage selector"
+    },
+    "gui.howtos.hide-and-show.name": {
+        "message": "ซ่อนและแสดง",
+        "description": "Name for the 'Hide & Show' how-to"
+    },
+    "gui.SpriteInfo.size": {
+        "message": "ขนาด",
+        "description": "Sprite info size label"
+    },
+    "gui.webglModal.previewfaqlink": {
+        "message": "preview FAQ",
+        "description": "link to Scratch 3.0 FAQ page"
+    },
+    "gui.soundEditor.louder": {
+        "message": "ดัง",
+        "description": "Title of the button to apply the louder effect"
+    },
+    "gui.previewInfo.welcome": {
+        "message": "ยินดีต้อนรับสู่ Scratch 3.0 Preview",
+        "description": "Header for Preview Info Modal"
+    },
+    "gui.spriteSelector.addSpriteFromSurprise": {
+        "message": "เซอร์ไพรส์",
+        "description": "Button to add a random sprite in the target pane"
+    },
+    "gui.howtos.run-away.step_addSound": {
+        "message": "เพิ่มบล็อก \"เริ่มต้นเสียง\"",
+        "description": "Step name for 'Add a “start sound” block' step"
+    },
+    "gui.howtos.change-size.name": {
+        "message": "เปลี่ยนขนาด",
+        "description": "Name for the 'Change size' how-to"
+    },
+    "gui.extensionLibrary.comingSoon": {
+        "message": "เร็วๆ นี้",
+        "description": "Label for extensions that are not yet implemented"
+    },
+    "gui.SpriteInfo.show": {
+        "message": "แสดง",
+        "description": "Sprite info show label"
+    },
+    "gui.loader.message8": {
+        "message": "กำลังเตรียมอิโมจิ ...",
+        "description": "One of the loading messages"
+    },
+    "gui.soundEditor.faster": {
+        "message": "เร็วขึ้น",
+        "description": "Title of the button to apply the faster effect"
+    },
+    "gui.gui.soundsTab": {
+        "message": "เสียง",
+        "description": "Button to get to the sounds panel"
+    },
+    "gui.soundTab.recordSound": {
+        "message": "บันทึก",
+        "description": "Button to record a sound in the editor tab"
+    },
+    "gui.SpriteInfo.direction": {
+        "message": "ทิศทาง",
+        "description": "Sprite info direction label"
+    },
+    "gui.costumeLibrary.chooseABackdrop": {
+        "message": "เลือกฉากหลัง",
+        "description": "Heading for the backdrop library"
+    },
+    "gui.cameraModal.loadingCaption": {
+        "message": "กำลังโหลด",
+        "description": "A caption for a disabled button while the video from the camera is still loading"
+    },
+    "gui.gui.variablePrompt": {
+        "message": "ตัวเลือกเพิ่มเติม",
+        "description": "Dropdown message for variable/list options"
+    },
+    "gui.gui.costumesTab": {
+        "message": "คอสตูม",
+        "description": "Button to get to the costumes panel"
+    },
+    "gui.gui.addExtension": {
+        "message": "เพิ่มส่วนขยาย",
+        "description": "Button to add an extension in the target pane"
+    },
+    "gui.howtos.add-effects.name": {
+        "message": "ใส่เอฟเฟกต์",
+        "description": "Name for the 'Add effects' how-to"
+    },
+    "gui.menuBar.giveFeedback": {
+        "message": "ให้ข้อเสนอแนะ",
+        "description": "Label for feedback form modal button"
+    },
+    "gui.cameraModal.cameraModalTitle": {
+        "message": "ถ่ายรูป",
+        "description": "Title for prompt to take a picture (to add as a new costume)."
+    },
+    "gui.howtos.run-away.name": {
+        "message": "กระเจิดกระเจิง",
+        "description": "Name for the 'Run away' how-to"
+    },
+    "gui.soundEditor.reverse": {
+        "message": "กลับด้าน",
+        "description": "Title of the button to apply the reverse effect"
+    },
+    "gui.howtos.spin.step_clickForever": {
+        "message": "คลิกบล็อกที่ซ้อนกันเพื่อรัน",
+        "description": "Step name for 'Click the stack to run it' step"
+    },
+    "gui.webglModal.webgllink": {
+        "message": "ไม่รองรับ WebGL",
+        "description": "link part of your browser does not support WebGL message"
+    },
+    "gui.menuBar.seeCommunity": {
+        "message": "ชุมชน",
+        "description": "Label for see community button"
+    },
+    "gui.cameraModal.loadingCameraMessage": {
+        "message": "กำลังโหลดกล้อง",
+        "description": "Notification to the user that the camera is loading"
+    },
+    "gui.costumeTab.addFileCostume": {
+        "message": "อัปโหลดคอสตูม",
+        "description": "Button to add a costume by uploading a file in the editor tab"
+    },
+    "gui.playbackStep.stopMsg": {
+        "message": "หยุด",
+        "description": "Stop/Play button in recording playback"
+    },
+    "gui.howtos.spin.step_clickControl": {
+        "message": "คลิกประเภท \"ควบคุม\"",
+        "description": "Step name for 'Click the “Control” category' step"
+    },
+    "gui.soundEditor.undo": {
+        "message": "ย้อนกลับ",
+        "description": "Title of the button to undo"
+    },
+    "gui.gui.codeTab": {
+        "message": "โค้ด",
+        "description": "Button to get to the code panel"
+    },
+    "gui.spriteSelector.addSpriteFromFile": {
+        "message": "อัปโหลด",
+        "description": "Button to add a sprite in the target pane from file"
+    },
+    "gui.loader.message1": {
+        "message": "กำลังสร้างบล็อค ...",
+        "description": "One of the loading messages"
+    },
+    "gui.loader.message6": {
+        "message": "กำลังส่ง Nano",
+        "description": "One of the loading messages"
+    },
+    "gui.loader.message3": {
+        "message": "กำลังโหลดเสียง ...",
+        "description": "One of the loading messages"
+    },
+    "gui.SpriteInfo.spritePlaceholder": {
+        "message": "ชื่อ",
+        "description": "Placeholder text for sprite name"
+    },
+    "gui.howtos.say-hello.step_editSay": {
+        "message": "พูดอะไรอื่นๆ สักอย่าง",
+        "description": "Step name for 'Say something else' step"
+    },
+    "gui.previewModal.tryit": {
+        "message": "ลองดู! {caticon}",
+        "description": "Label for button to try Scratch 3.0 preview"
+    },
+    "gui.howtos.run-away.step_dragGoTo": {
+        "message": "ลากบล็อก \"ไปยัง ตำแหน่งสุ่ม\"",
+        "description": "Step name for 'Drag out a “go to random position” block' step"
+    },
+    "gui.monitor.contextMenu.default": {
+        "message": "เปลี่ยนเป็นจอปกติ",
+        "description": "Menu item to switch to the default monitor"
+    },
+    "gui.controls.stop": {
+        "message": "หยุด",
+        "description": "Stop button title"
+    },
+    "gui.costumeTab.addBlankCostume": {
+        "message": "วาดรูป",
+        "description": "Button to add a blank costume in the editor tab"
+    },
+    "gui.howtos.say-hello.step_dragSay": {
+        "message": "ลากบล็อก \"พูด\" ออกมา",
+        "description": "Step name for 'Drag out a “say” block' step"
+    },
+    "gui.customProcedures.runWithoutScreenRefresh": {
+        "message": "รันโดยไม่รีเฟรชหน้าจอ ",
+        "description": "Label for checkbox to run without screen refresh"
+    },
+    "gui.stageSelector.addBackdropFromFile": {
+        "message": "อัปโหลดฉากหลัง",
+        "description": "Button to add a stage in the target pane from file"
+    },
+    "gui.spriteSelector.addSpriteFromLibrary": {
+        "message": "เลือกสไปรต์",
+        "description": "Button to add a sprite in the target pane from library"
+    },
+    "gui.soundEditor.sound": {
+        "message": "เสียง",
+        "description": "Label for the name of the sound"
+    },
+    "gui.unsupportedBrowser.label": {
+        "message": "ไม่รองรับเบราเซอร์",
+        "description": ""
+    },
+    "gui.howtos.say-hello.step_anotherSay": {
+        "message": "ลากบล็อก \"พูด\" ออกมาอีก",
+        "description": "Step name for 'Drag out another “say” block' step"
+    },
+    "gui.playbackStep.loadingMsg": {
+        "message": "กำลังโหลด",
+        "description": "Loading/Save button in recording playback"
+    },
+    "gui.howtos.add-a-backdrop.name": {
+        "message": "เพิ่มฉากหลัง",
+        "description": "Name for the 'Add a backdrop' how-to"
+    },
+    "gui.comingSoon.message2": {
+        "message": "เร็วๆ นี้...",
+        "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+    },
+    "gui.howtos.say-hello.step_clickSay": {
+        "message": "คลิกบล็อกเพื่อรัน",
+        "description": "Step name for 'Click the block to run it' step"
+    },
+    "gui.stageSelector.addBackdropFromPaint": {
+        "message": "วาดรูป",
+        "description": "Button to add a stage in the target pane from paint"
+    },
+    "gui.cameraModal.takePhoto": {
+        "message": "ถ่ายรูป",
+        "description": "A button to take a photo"
+    },
+    "gui.playbackStep.saveMsg": {
+        "message": "บันทึก",
+        "description": "Loading/Save button in recording playback"
+    },
+    "gui.howtos.say-hello.step_clickLooks": {
+        "message": "คลิกประเภท \"รูปร่าง\" ",
+        "description": "Step name for 'Click the “Looks” category' step"
+    },
+    "gui.playbackStep.reRecordMsg": {
+        "message": "บันทึกใหม่",
+        "description": "Button to re-record sound in recording playback"
+    },
+    "gui.importInfo.message": {
+        "message": "ใส่ลิงก์ไปยังโครงงาน Scratch ของคุณที่ถูกแบ่งปัน การเปลี่ยนแปลงที่ทำใน 3.0 Preview นี้จะไม่ถูกบันทึก",
+        "description": "Import project message"
+    },
+    "gui.menuBar.edit": {
+        "message": "แก้ไข",
+        "description": "Text for edit dropdown menu"
+    },
+    "gui.cameraModal.save": {
+        "message": "บันทึก",
+        "description": "A button that allows the user to save the photo they took as a costume"
+    },
+    "gui.previewInfo.label": {
+        "message": "ลอง Scratch 3.0",
+        "description": "Scratch 3.0 modal label - for accessibility"
+    },
+    "gui.webglModal.previewfaq": {
+        "message": "เรียนรู้เพิ่มเติม ไปที่ {previewFaqLink}",
+        "description": "Scratch 3.0 FAQ description"
+    },
+    "gui.menuBar.turboMode": {
+        "message": "โหมดเทอร์โบ",
+        "description": "Menu bar item for toggling turbo mode"
+    },
+    "gui.prompt.cancel": {
+        "message": "ยกเลิก",
+        "description": "Button in prompt for cancelling the dialog"
+    }
+}
